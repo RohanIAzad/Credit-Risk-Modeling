@@ -3,9 +3,9 @@ This project focuses on developing a Probability of Default (PD) model using the
 
 # Steps Followed
 ## 1. Data Preprocessing and Feature Engineering
-Handled missing values and created dummy variables for categorical features.
-Applied Weight of Evidence (WoE) transformation and calculated Information Value (IV) to assess variable significance.
-Selected reference categories based on the lowest WoE values.
+1. Handled missing values and created dummy variables for categorical features.
+2. Applied Weight of Evidence (WoE) transformation and calculated Information Value (IV) to assess variable significance.
+3. Selected reference categories based on the lowest WoE values.
 
 ## 2. Building the Probability of Default (PD) Model
 
