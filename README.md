@@ -1,5 +1,5 @@
 # Project Overview
-This project focuses on developing a Probability of Default (PD) model using the Lending Club dataset (2007-2015). The dataset contains detailed loan information, including borrower characteristics and loan performance. The goal is to predict loan default risk and build a credit scorecard for risk assessment.
+This project focuses on developing a Probability of Default (PD) model using the Lending Club dataset (2007-2015). The dataset contains detailed loan information, including borrower characteristics and loan performance. The goal is to predict loan default risk and build a credit scorecard for risk assessment. Lending club is a peer-to-peer lending company. Each row is for one member, their features and whether they paid off, current or defaulting on their loan
 
 # Steps Followed
 ## 1. Data Preprocessing and Feature Engineering
